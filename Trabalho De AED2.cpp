@@ -64,7 +64,7 @@ struct Tvisitantes {
     int ano_visita_final;
 };
 
-// Faça o mesmo para as funções lerContadorDependentes, lerContadorVisitantes e lerContadorPessoa.
+//lerContadorDependentes, lerContadorVisitantes e lerContadorPessoa.
 static int contadorAssociados;
 static int contadorDependentes;
 static int contadorVisitantes;
